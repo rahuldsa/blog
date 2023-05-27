@@ -21,50 +21,6 @@
       "hourly_rate": 50,
       "profile_picture": "https://img.freepik.com/free-photo/portrait-smiling-man-sitting-cafe-bar-with-his-laptop-computer_342744-944.jpg?w=740&t=st=1685169845~exp=1685170445~hmac=52c725479c14dbc8d9760de0d2c865771cbc38d2772017c1724d0acc0b4f175e",
       "isBooked": true
-    },
-    {
-      "id": 3,
-      "name": "tarun",
-      "email": "jane@example.com",
-      "password": "password",
-      "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 30,
-      "profile_picture": "https://img.freepik.com/free-photo/portrait-smiling-man-sitting-cafe-bar-with-his-laptop-computer_342744-944.jpg?w=740&t=st=1685169845~exp=1685170445~hmac=52c725479c14dbc8d9760de0d2c865771cbc38d2772017c1724d0acc0b4f175e",
-      "isBooked": true
-    },
-    {
-      "id": 4,
-      "name": "dpg",
-      "email": "jane@example.com",
-      "password": "password",
-      "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 40,
-      "profile_picture": "https://img.freepik.com/free-photo/portrait-smiling-man-sitting-cafe-bar-with-his-laptop-computer_342744-944.jpg?w=740&t=st=1685169845~exp=1685170445~hmac=52c725479c14dbc8d9760de0d2c865771cbc38d2772017c1724d0acc0b4f175e",
-      "isBooked": true
-    },
-    {
-      "id": 5,
-      "name": "Jayu",
-      "email": "jane@example.com",
-      "password": "password",
-      "profession": "Web Developer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 10,
-      "profile_picture": "https://img.freepik.com/free-photo/portrait-smiling-man-sitting-cafe-bar-with-his-laptop-computer_342744-944.jpg?w=740&t=st=1685169845~exp=1685170445~hmac=52c725479c14dbc8d9760de0d2c865771cbc38d2772017c1724d0acc0b4f175e",
-      "isBooked": false
-    },
-    {
-      "id": 2,
-      "name": "munnu",
-      "email": "jane@example.com",
-      "password": "password",
-      "profession": "Web Developer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 20,
-      "profile_picture": "https://img.freepik.com/free-photo/portrait-smiling-man-sitting-cafe-bar-with-his-laptop-computer_342744-944.jpg?w=740&t=st=1685169845~exp=1685170445~hmac=52c725479c14dbc8d9760de0d2c865771cbc38d2772017c1724d0acc0b4f175e",
-      "isBooked": false
     }
   ]
 }
